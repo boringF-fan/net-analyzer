@@ -25,7 +25,7 @@ python net_analyzer/main.py
 
 ## Build Executable (PyInstaller)
 
-For non-technical users, build a standalone `.exe` file (~15MB):
+For non-technical users, build a standalone `.exe` file (~8MB):
 
 ### 1. Install PyInstaller
 
